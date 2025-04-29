@@ -42,6 +42,7 @@ import (
 	"github.com/gophish/gophish/middleware"
 	"github.com/gophish/gophish/models"
 	"github.com/gophish/gophish/webhook"
+	"github.com/mattn/go-sqlite3"
 )
 
 const (
